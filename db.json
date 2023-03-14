@@ -9,6 +9,8 @@
     "laserDuration": 8,
     "slomoDuration": 6,
     "slomoSpeed": 100,
-    "maxDifficultySpeed": 450
+    "maxDifficultySpeed": 450,
+    "useLeaderBoard": true,
+    "useFirebase": true
   }
 }
