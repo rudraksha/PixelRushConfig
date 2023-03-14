@@ -1,1 +1,10 @@
 
+{
+  "gameConfig": {
+    "livesAtSessionStart": 2,
+    "maxNoOfLivesPerSession": 4,
+    "policyURL": "https://whitecoffeegames.wixsite.com/headballbalance/privacypolicy",
+    "coinWeight": 10,
+    "lifeWeight": 3
+  }
+}
