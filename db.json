@@ -1,10 +1,14 @@
 
 {
   "gameConfig": {
-    "livesAtSessionStart": 2,
-    "maxNoOfLivesPerSession": 4,
-    "policyURL": "https://whitecoffeegames.wixsite.com/headballbalance/privacypolicy",
-    "coinWeight": 10,
-    "lifeWeight": 3
+    "comboPrice": 2,
+    "pixelsToPop": 4,
+    "instantCoins": 10,
+    "goldBonusDuration": 3,
+    "freezeDuration": 3,
+    "laserDuration": 3,
+    "slomoDuration": 3,
+    "slomoSpeed": 3,
+    "maxDifficultySpeed": 3,
   }
 }
