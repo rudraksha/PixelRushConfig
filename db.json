@@ -1,14 +1,14 @@
 
 {
   "gameConfig": {
-    "comboPrice": 2,
-    "pixelsToPop": 4,
+    "comboPrice": 1000,
+    "pixelsToPop": 5,
     "instantCoins": 10,
-    "goldBonusDuration": 3,
-    "freezeDuration": 3,
-    "laserDuration": 3,
-    "slomoDuration": 3,
-    "slomoSpeed": 3,
-    "maxDifficultySpeed": 3
+    "goldBonusDuration": 8,
+    "freezeDuration": 2,
+    "laserDuration": 8,
+    "slomoDuration": 6,
+    "slomoSpeed": 100,
+    "maxDifficultySpeed": 450
   }
 }
