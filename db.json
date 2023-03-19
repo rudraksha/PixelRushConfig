@@ -1,7 +1,7 @@
 
 {
   "gameConfig": {
-    "comboPrice": 50,
+    "comboPrice": 5,
     "pixelsToPop": 5,
     "instantCoins": 10,
     "goldBonusDuration": 8,
