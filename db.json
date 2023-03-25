@@ -19,6 +19,7 @@
     "overlapPreventionDuration": 0.1,
     "startingBlockSpeed": 300,
     "blockSpeedIncrementBy": 30,
-    "playerPreformanceThreshold": 5
+    "playerPreformanceThreshold": 5,
+    "comboTimeLimit": 1
   }
 }
