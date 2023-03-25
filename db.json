@@ -11,6 +11,15 @@
     "slomoSpeed": 100,
     "maxDifficultySpeed": 480,
     "useLeaderBoard": true,
-    "useFirebase": true
+    "useFirebase": true,
+    "rewardADRewardCount": 200,
+    "possibleMinSpawnDuration": 0.0,
+    "possibleMaxSpawnDuration": 0.1,
+    "overlapPreventionCount": 2,
+    "overlapPreventionDuration": 0.1,
+    "startingBlockSpeed": 300,
+    "blockSpeedIncrementBy": 30,
+    "playerPreformanceThreshold": 5
+
   }
 }
