@@ -20,6 +20,6 @@
     "startingBlockSpeed": 300,
     "blockSpeedIncrementBy": 30,
     "playerPreformanceThreshold": 5,
-    "comboTimeLimit": 1
+    "comboTimeLimit": 0.8
   }
 }
