@@ -9,7 +9,7 @@
     "laserDuration": 8,
     "slomoDuration": 6,
     "slomoSpeed": 100,
-    "maxDifficultySpeed": 400,
+    "maxDifficultySpeed": 420,
     "useLeaderBoard": true,
     "useFirebase": true,
     "rewardADRewardCount": 200,
